@@ -1,0 +1,37 @@
+/* 
+body{
+    font-family: 'Overpass', sans-serif; 
+    
+} */
+
+.playVideo{
+    width: 80%;
+     height: 315px; 
+    padding: 25px 0 25px 0;
+}
+
+.ico{
+    height: 50px;
+}
+
+.contenedorVideoPrincipal{
+    background-image: url(../IMG/bgComic.jpg);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.colorBotones{
+    background: #393E46 !important;
+    border-color: #32E0C4 !important;
+}
+
+.textoLink{
+    font-weight: 300;
+    color:#222831;
+
+}
+
+.todoFondo{
+    background: linear-gradient(to right bottom,#222831 -45%,#32E0C4 146%);
+}
